@@ -9,7 +9,7 @@
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR / ඔබට ආපු කොඩය මෙතන්ට දමන්න",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=yctwyYpY#BUZXwV0337wjYkolXTZiRx6W2nTC-WJkbhBXLq4pO7k"
         },
     "COMMAND_TYPE": {
             "description": "Put correct spelling button or nonbutton here to change mode / මෙයට button හෝ nonbutton ලෙස නිවැරදිව නොවරදවා දමන්න",
@@ -19,7 +19,7 @@
     "HEROKU_APP_NAME": {
             "description": "Put Heroku app name here / හෙරොකු හි ඩිප්ලොයි කරන විට මුලි දැමු app name එක නැවද දමන්න",
             "required": true,
-            "value": ""
+            "value": "𝜧𝝈𝝒𝝑𝛂𝛞 𝜦𝝇𝝅𝝊➤"
         },
     "HEROKU_API_KEY": {
             "description": "Put Heroku Api key here / හෙරොකු api key එක දමන්න",
@@ -34,7 +34,7 @@
     "OWNER_NUMBER": {
             "description": "Put Your Number Here",
             "required": true,
-            "value": ""
+            "value": "+916282524936"
 }
 
     },
